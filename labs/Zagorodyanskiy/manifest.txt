@@ -1,0 +1,1 @@
+Main-Class: labs.Zagorodyanskiy.lab2task2
